@@ -6,4 +6,4 @@ I have completed my Msc in 2019
 I have started full stack web development job in 2021.
 I will join at Mfile at december.
 logo is centered aligned solved
-added text for main branch
+added new line in feature branch
